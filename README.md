@@ -38,6 +38,7 @@
 </p>
 
 <h3 align="left">GitHub stats:</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangphucthan&theme=transparent&layout=compact)
 
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangphucthan&theme=transparent&show_icons=true)
