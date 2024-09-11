@@ -2,10 +2,10 @@
 
 <h1 align="left">Hi there 👋 My name is Phuc Than</h1>
 
-<h2 align="left">Software Engineer / Front-End Developer</h2>
+<h2 align="left">Cybersecurity Enthusiatstic</h2>
 
 :school: 4th year in Bachelor of Applied Computer Science @ Dalhousie University <br>
-:computer: Currently looking for an internship / co-op <br>
+:computer: Currently looking for an internship/co-op <br>
 :mag: Passionate learner and love to solve new challenges <br>
 :email: Contact me by phuc.than03@gmail.com <br>
 :lock: Working on TypeScript, AWS and AngularJS
