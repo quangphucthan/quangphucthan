@@ -23,7 +23,7 @@
   <a href="developer.android.com/studio/intro/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="androidstu" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.wireshark.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Wireshark_Logo.svg" alt="wireshark" width="40" height="40"/> </a>
+  <a href="https://www.wireshark.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> </a>
   
   <a href="https://www.photoshop.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a>
   
