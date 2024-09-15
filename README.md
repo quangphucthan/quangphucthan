@@ -8,7 +8,7 @@
 :computer: Currently looking for an internship/co-op <br>
 :mag: Passionate learner and love to solve new challenges <br>
 :email: Contact me by phuc.than03@gmail.com <br>
-:lock: Working on TypeScript, AWS and AngularJS
+:lock: Working on TypeScript, AWS and AngularJS <br>
 :lock: Taking CISSP course
 
 <h3 align="left">Languages and Tools: </h3>
