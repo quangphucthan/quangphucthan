@@ -9,6 +9,7 @@
 :mag: Passionate learner and love to solve new challenges <br>
 :email: Contact me by phuc.than03@gmail.com <br>
 :lock: Working on TypeScript, AWS and AngularJS
+:lock: Taking CISSP course
 
 <h3 align="left">Languages and Tools: </h3>
 <p align="left">  
