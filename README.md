@@ -4,12 +4,11 @@
 
 <h2 align="left">Cybersecurity Enthusiatstic</h2>
 
-:school: 4th year in Bachelor of Applied Computer Science @ Dalhousie University <br>
+:school: Final year in Bachelor of Applied Computer Science @ Dalhousie University <br>
 :computer: Currently looking for an internship/co-op <br>
 :mag: Passionate learner and love to solve new challenges <br>
 :email: Contact me by phuc.than03@gmail.com <br>
-:lock: Working on TypeScript, AWS and AngularJS <br>
-:lock: Taking CISSP course
+:lock: Taking CISSP course, CompTIA+
 
 <h3 align="left">Languages and Tools: </h3>
 <p align="left">  
