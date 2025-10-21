@@ -7,7 +7,7 @@
 :school: Final year in Bachelor of Applied Computer Science @ Dalhousie University <br>
 :computer: Currently looking for an internship/co-op <br>
 :mag: Passionate learner and love to solve new challenges <br>
-:email: Contact me by phuc.than03@gmail.com <br>
+:email: Contact me by quangphucthan@gmail.com <br>
 :lock: Taking CISSP course, CompTIA+
 
 <h3 align="left">Languages and Tools: </h3>
