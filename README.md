@@ -8,7 +8,7 @@
 :computer: Currently looking for an internship/co-op <br>
 :mag: Passionate learner and love to solve new challenges <br>
 :email: Contact me by quangphucthan@gmail.com <br>
-:lock: Taking CISSP course, CompTIA+
+:lock: Taking ISC2 Certificate of CC, CompTIA Network+
 
 <h3 align="left">Languages and Tools: </h3>
 <p align="left">  
