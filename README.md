@@ -37,7 +37,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangphucthan&theme=transparent&layout=compact" alt="Top languages" />
 </p>
-<p align="left">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5499647" style='border:none;'></iframe>
-</p>
-
