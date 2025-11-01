@@ -39,4 +39,4 @@
 </p>
 
 <h3 align="left">GitHub stats:</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangphucthan&theme=transparent&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=quangphucthan&theme=transparent&layout=compact)
