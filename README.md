@@ -25,7 +25,7 @@
 [![Databases](https://skillicons.dev/icons?i=mysql,firebase,mongodb)](https://skillicons.dev)
 
 #### Network
-[![Network](https://go-skill-icons.vercel.app/api/icons?i=wireshark,pyspark&theme=dark)]()
+[![Network](https://go-skill-icons.vercel.app/api/icons?i=wireshark&theme=dark)]()
 
 #### OS
 [![OS](https://skillicons.dev/icons?i=apple,windows,kali,linux)](https://skillicons.dev)
