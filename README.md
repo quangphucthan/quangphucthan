@@ -13,13 +13,13 @@
 ### Skills
 
 #### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=js,ts,py,c,nodejs,java)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=py,c,java,js,ts,nodejs)](https://skillicons.dev)
 
-#### Frontend Web Development
-[![Frontend Web Development](https://skillicons.dev/icons?i=html,css,react,next,tailwind,bootstrap,vite)](https://skillicons.dev)
+#### Frontend Development
+[![Frontend Development](https://skillicons.dev/icons?i=html,css,react,next,tailwind,bootstrap,vite)](https://skillicons.dev)
 
-#### Backend Web Development
-[![Frontend Web Development](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+#### Backend Development
+[![Frontend Development](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
 #### Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,firebase,mongodb)](https://skillicons.dev)
