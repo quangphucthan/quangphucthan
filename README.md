@@ -15,6 +15,10 @@
 #### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=py,c,java,js,ts,nodejs)](https://skillicons.dev)
 
+#### Network
+[![Network](https://go-skill-icons.vercel.app/api/icons?i=wireshark&theme=dark)]()
+[![Nmap](https://nmap.org/images/nmap-logo-64px.svg)](https://nmap.org/)
+
 #### Frontend Development
 [![Frontend Development](https://skillicons.dev/icons?i=html,css,react,next,tailwind,bootstrap,vite)](https://skillicons.dev)
 
@@ -24,17 +28,14 @@
 #### Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,firebase,mongodb)](https://skillicons.dev)
 
-#### Network
-[![Network](https://go-skill-icons.vercel.app/api/icons?i=wireshark&theme=dark)]()
-
 #### OS
 [![OS](https://skillicons.dev/icons?i=apple,windows,kali,linux)](https://skillicons.dev)
 
 #### DevOps
-[![Devops](https://skillicons.dev/icons?i=docker,azure,markdown,git,githubactions)](https://skillicons.dev)
+[![Devops](https://skillicons.dev/icons?i=docker,markdown,git,githubactions)](https://skillicons.dev)
 
 #### Other Skills
-[![Others Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![Others Skills](https://skillicons.dev/icons?i=figma,androidstudio,gradle,kotlin)](https://skillicons.dev)
 
 ### Social
 <p align="left">
