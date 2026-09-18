@@ -4,8 +4,8 @@
 
 <h2 align="left">Cybersecurity Enthusiast</h2>
 
-:school: Final year in Bachelor of Applied Computer Science @ Dalhousie University<br>
-:computer: Currently looking for an internship/co-op<br>
+:school: Bachelor of Applied Computer Science @ Dalhousie University<br>
+:computer: IT Specialist @ Pratt & Whitney Canada
 :mag: Passionate learner and love to solve new challenges<br>
 :email: Contact me at quangphucthan@gmail.com<br>
 :lock: Taking ISC2 Certificate of CC, CompTIA Network+
