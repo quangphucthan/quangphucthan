@@ -5,7 +5,7 @@
 <h2 align="left">Cybersecurity Enthusiast</h2>
 
 :school: Bachelor of Applied Computer Science @ Dalhousie University<br>
-:computer: IT Specialist @ Pratt & Whitney Canada
+:computer: IT Specialist @ Pratt & Whitney Canada<br>
 :mag: Passionate learner and love to solve new challenges<br>
 :email: Contact me at quangphucthan@gmail.com<br>
 :lock: Taking ISC2 Certificate of CC, CompTIA Network+
